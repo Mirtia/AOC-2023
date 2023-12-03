@@ -1,4 +1,4 @@
-# CMake C++20 Modules demonstrated on Advent of Code 2015, Day 1
+# CMake C++20 Modules demonstrated on Advent of Code 2023, Day 2
 
 The example contains three modules:
 
