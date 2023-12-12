@@ -38,6 +38,11 @@ An object of type ```std::initializer_list<T>``` is a lightweight proxy object t
 
 [Reference docs](https://en.cppreference.com/w/cpp/language/reference)
 
+### static_assert
+
+`static_assert` is used for compile-time assertions
+
+
 ## Emojis Used
 
 😃😄👽👾👨‍🔧👩🏻‍🦳👨🏼‍💻👩🏼‍💻♛♜♝♞♟🏴🚩👵🏻👩🏻‍💻🤨🧐🤓😎

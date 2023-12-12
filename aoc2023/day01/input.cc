@@ -1005,4 +1005,13 @@ bdvkqlrh9eight6eightninehq7
 fivexpx1vsrreightkp7dph
 3eightlrrlgck967
 xcntwone4633sixmkm1nine)";
-}
+
+const std::string_view example = R"(two1nine
+eightwothree
+abcone2threexyz
+xtwone3four
+4nineeightseven2
+zoneight234
+7pqrstsixteen)";
+
+} // namespace input
